@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lightamadi.github.io/csb-zuhegd/static/css/main.84880910.chunk.css",
+    "main.js": "https://lightamadi.github.io/csb-zuhegd/static/js/main.cc7813dd.chunk.js",
+    "main.js.map": "https://lightamadi.github.io/csb-zuhegd/static/js/main.cc7813dd.chunk.js.map",
+    "runtime-main.js": "https://lightamadi.github.io/csb-zuhegd/static/js/runtime-main.36f39313.js",
+    "runtime-main.js.map": "https://lightamadi.github.io/csb-zuhegd/static/js/runtime-main.36f39313.js.map",
+    "static/js/2.04c767ed.chunk.js": "https://lightamadi.github.io/csb-zuhegd/static/js/2.04c767ed.chunk.js",
+    "static/js/2.04c767ed.chunk.js.map": "https://lightamadi.github.io/csb-zuhegd/static/js/2.04c767ed.chunk.js.map",
+    "index.html": "https://lightamadi.github.io/csb-zuhegd/index.html",
+    "static/css/main.84880910.chunk.css.map": "https://lightamadi.github.io/csb-zuhegd/static/css/main.84880910.chunk.css.map",
+    "static/js/2.04c767ed.chunk.js.LICENSE.txt": "https://lightamadi.github.io/csb-zuhegd/static/js/2.04c767ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36f39313.js",
+    "static/js/2.04c767ed.chunk.js",
+    "static/css/main.84880910.chunk.css",
+    "static/js/main.cc7813dd.chunk.js"
+  ]
+}
